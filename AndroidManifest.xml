@@ -2036,20 +2036,7 @@
         <activity
              android:name=".bliss.InterfaceSettings" />
 
-        <activity android:name="Settings$BlissDownloadActivity"
-            android:label="@string/download_category"
-            android:taskAffinity="">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-            <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
-                android:value="com.android.settings.bliss.Download" />
-        </activity>
-
         <activity
-             android:name=".bliss.Download" />
-
 	
         <!-- Navigation options -->
         <activity android:name="Settings$NavBarActivity"
@@ -2467,7 +2454,6 @@
             </intent-filter>
         </activity>
 	
-        <activity android:name=".bliss.Download" />	
         <activity
             android:name=".fragments.AnimationControls"
             android:label="@string/title_animation_controls">
@@ -2486,9 +2472,6 @@
         
         <!-- Kernel Adiutor -->
         <activity android:name="com.grarak.kerneladiutor.MainActivity"/>
-
-        <!-- Bliss Roms OTA Update -->
-        <activity android:name="com.chummy.blissroms.updates.activities.MainActivity" />
 
         <receiver android:name=".widget.SettingsAppWidgetProvider"
                 android:label="@string/gadget_title"

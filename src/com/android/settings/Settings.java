@@ -116,6 +116,5 @@ public class Settings extends SettingsActivity {
     public static class AmbientDisplaySettingsActivity extends SettingsActivity { /* empty */ }
     public static class AppSideBarSettingsActivity extends SettingsActivity { /* empty */ }
     public static class BlissInterfaceSettingsActivity extends SettingsActivity { /* empty */ }
-    public static class BlissDownloadActivity extends SettingsActivity { /* empty */ }
 }
 

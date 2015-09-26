@@ -97,31 +97,6 @@
     <string name="mod_build_version">Bliss build</string>
     <string name="mod_version_default">Unknown</string>
 
-    <!-- Download Center -->
-    <string name="download_category">Bliss downloads</string>
-    <string name="download_category_summary">Help to support Team Bliss</string>
-    <string name="rom_category">Rom Download</string>
-    <string name="gapps_category">Gapps packages</string>
-    <string name="kernels_category">Kernel downloads</string>
-    <string name="addons_category">Misc addons</string>
-    <string name="bliss_official_title">BlissPop official builds</string>
-    <string name="bliss_official_summary">Link for official release builds of BlissPop</string>
-    <string name="bliss_nightly_title">BlissPop nightly builds</string>
-    <string name="bliss_nightly_summary">Link for nightly release builds of BlissPop</string>
-    <string name="banksgapps_title">BaNkS Goggle apps</string>
-    <string name="banksgapps_summary">Recommended Google apps package for use with BlissPop</string>
-    <string name="pagapps_title">JAJB Minimal Google apps</string>
-    <string name="pagapps_summary">Alternative Google apps, available for 5.0.x and 5.1 builds</string>
-    <string name="kernels_title">Bliss kernels</string>
-    <string name="kernels_summary">Various kernels for devices supported by Team Bliss</string>
-    <string name="addons_title">Misc addons</string>
-    <string name="addons_summary">Sound mods, splash screens etc.</string>
-
-    <!-- Support Team Bliss -->
-    <string name="support_category">Support</string>
-    <string name="support_bliss_title">Help to support Team Bliss</string>
-    <string name="support_bliss_summary">Link to Team Bliss PayPal donation</string>
-
     <!-- Team Bliss Contests -->
     <string name="contest_category">Current Bliss Contests</string>
     <string name="contest_bliss_title">Team Bliss Contests</string>
@@ -682,9 +657,6 @@
 
     <!-- Kernel Adiutor -->
     <string name="kernel_adiutor_title">Kernel Adiutor</string>
-
-    <!-- BlissRoms OTA -->
-    <string name="bliss_ota">Updates</string>
 
     <!-- Device specific settings -->
     <string name="screen_off_gesture_settings_title">Screen off gestures</string>
