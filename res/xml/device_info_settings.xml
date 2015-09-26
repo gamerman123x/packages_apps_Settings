@@ -40,7 +40,8 @@
         <PreferenceScreen android:key="changelog"
                 android:title="@string/changelog_bliss_title"
                 android:fragment="com.android.settings.bliss.ChangeLog" />
-        </PreferenceScreen>	 
+
+        </PreferenceScreen>		 
 
         <!-- Advanced mode -->
         <com.android.settings.cyanogenmod.SecureSettingSwitchPreference

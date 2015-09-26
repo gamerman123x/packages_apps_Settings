@@ -2035,8 +2035,6 @@
 
         <activity
              android:name=".bliss.InterfaceSettings" />
-
-        <activity
 	
         <!-- Navigation options -->
         <activity android:name="Settings$NavBarActivity"
